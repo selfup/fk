@@ -17,4 +17,12 @@ $ fk fex "foo/bar/example.txt"
 selfup@win42 MINGW64 ~/go/src/github.com/selfup/fk (master)
 $ fk rd "foo/bar/example.txt"
 hello world
+
+selfup@win42 MINGW64 ~/go/src/github.com/selfup/fk (master)
+$ fk ls .
+d: .git
+f: .gitignore
+f: LICENSE
+f: README.md
+f: main.go
 ```
