@@ -5,7 +5,7 @@ Windows (F), Linux (K), and macOS (C)
 Tiny shell commands that work the same everywhere!
 
 ```shell
-(mkdir)
+(mkdir -p)
 selfup@win42 MINGW64 ~/go/src/github.com/selfup/fk (master)
 $ fk mkdir foo/bar
 
