@@ -29,5 +29,6 @@ d: .git
 f: .gitignore
 f: LICENSE
 f: README.md
+d: foo
 f: main.go
 ```
